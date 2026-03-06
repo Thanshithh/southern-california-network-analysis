@@ -1,0 +1,22 @@
+CALIFORNIA WILDFIRE CLUSTERING ANALYSIS SUMMARY
+======================================================================
+
+Total fires analyzed: 173
+Time period: 2010–2024
+Total acres burned: 1,770,295
+Average fire size: 10,233
+Largest fire: 281,982
+
+DBSCAN
+----------------------------------------
+Clusters: 7
+Noise: 10 (5.8%)
+
+HDBSCAN
+----------------------------------------
+Clusters: 0
+Noise: 173 (100.0%)
+
+KMEANS
+----------------------------------------
+Clusters: 6

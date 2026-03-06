@@ -1,0 +1,30 @@
+SOUTHERN CALIFORNIA WILDFIRE COMPREHENSIVE ANALYSIS
+======================================================================
+
+Total fires analyzed: 717
+Time period: 2010-2024
+
+Fire Statistics:
+  Total acres burned: 16,254,748
+  Average fire size: 22,670 acres
+  Largest fire: 1,068,802 acres
+
+DBSCAN CLUSTERING RESULTS
+----------------------------------------
+  Clusters found: 9
+  Noise points: 49 (6.8%)
+  Recommended stations: 23
+  Estimated cost: $57.5 million/year
+
+HDBSCAN CLUSTERING RESULTS
+----------------------------------------
+  Clusters found: 6
+  Noise points: 235 (32.8%)
+  Recommended stations: 15
+  Estimated cost: $37.5 million/year
+
+KMEANS CLUSTERING RESULTS
+----------------------------------------
+  Clusters found: 7
+  Recommended stations: 21
+  Estimated cost: $52.5 million/year

@@ -1,0 +1,17 @@
+SOUTHERN CALIFORNIA WILDFIRE NETWORK ANALYSIS
+======================================================================
+
+Total fires analyzed: 717
+Network connections: 322
+Network density: 0.0013
+
+TOP CONNECTIVITY HUBS
+------------------------------
+  1. PICKETT - 11,226 acres (2015)
+  2. GOBBLER - 8,560 acres (2015)
+  3. BUCK - 1,935 acres (2015)
+  4. PEAK - 6,320 acres (2015)
+  5. BLUE - 3,002 acres (2015)
+
+Communities detected: 490
+Analysis parameters: 30.0km spatial, 180 days temporal

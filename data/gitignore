@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (large files)
+*.geojson
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.zip
+
+# Results (generated files)
+Old_Dataset/results/
+New_Dataset/results/
+
+# Data files (can be large)
+Old_Dataset/data/*.geojson
+New_Dataset/data/*.xls
+New_Dataset/data/*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
