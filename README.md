@@ -25,3 +25,6 @@ These scripts were created to investigate the fire count discrepancy:
 *   `find_exact_buffer.py`: Calculated the exact 0.74-degree buffer.
 *   `check_dates.py` & `inspect_ids.py`: Verified the date range of the dataset.
 *   `inspect_columns.py`, `check_sums.py`, `check_sizes.py`, `hack_the_count_v2.py`: Various debugging tools.
+
+---
+*Last updated: March 2026*
